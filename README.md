@@ -14,9 +14,9 @@
   </a>
 </div>
 
-###
+### 👨‍💻 About Me
 
-<p align="left">👨‍💻 About Me<br><br>Based in Bandung, Indonesia 🇮🇩  <br>I’m a backend-focused developer who believes that deep expertise is the key to building impactful solutions. Inspired by Warren Buffet's principle, I’m committed to being exceptionally good at what I do, currently backend engineering.  <br><br>While backend is my main domain, I also enjoy working on fullstack projects to stay in sync with frontend needs, improve collaboration, and understand the bigger system as a whole.  <br><br>Always open to learn from others, contribute to meaningful projects, and grow through hands-on experience in real-world environments 🚀</p>
+<p align="left"><br><br>Based in Bandung, Indonesia 🇮🇩  <br>I’m a backend-focused developer who believes that deep expertise is the key to building impactful solutions. Inspired by Warren Buffet's principle, I’m committed to being exceptionally good at what I do, currently backend engineering.  <br><br>While backend is my main domain, I also enjoy working on fullstack projects to stay in sync with frontend needs, improve collaboration, and understand the bigger system as a whole.  <br><br>Always open to learn from others, contribute to meaningful projects, and grow through hands-on experience in real-world environments 🚀</p>
 
 ###
 
@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
