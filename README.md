@@ -63,3 +63,18 @@
 <h2 align="left">“It’s better to be really good at one thing than average at many.” - Warren Buffet</h2>
 
 ###
+
+---
+
+## 🙌 Credits
+
+This README was generated using the amazing tool [GitHub Profile README Generator](https://github.com/maurodesouza/profile-readme-generator) by [@maurodesouza](https://github.com/maurodesouza), and then manually customized to better reflect my personality and profile!
+
+### 💡 Additional Tools Used
+
+- 🎮 **Pacman Contribution Graph**  
+  Powered by [@abozanona](https://github.com/abozanona)'s [Pacman GitHub Action](https://github.com/abozanona/pacman-contribution-graph)
+
+---
+
+
