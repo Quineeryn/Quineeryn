@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/canandra" target="_blank">
+  <a href="https://www.linkedin.com/in/canandra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/canandraekaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="hackerrank logo"  />
   </a>
-  <a href="canandra.dev@gmail.com" target="_blank">
+  <a href="mailto:canandra.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
 </div>
@@ -60,6 +60,6 @@
 
 ###
 
-<h5 align="left">“It’s better to be really good at one thing than average at many.” - Warrent Buffet</h5>
+<h2 align="left">“It’s better to be really good at one thing than average at many.” - Warren Buffet</h2>
 
 ###
