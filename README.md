@@ -14,9 +14,11 @@
   </a>
 </div>
 
+---
+
 ### 👨‍💻 About Me
 
-<p align="left"><br><br>Based in Bandung, Indonesia 🇮🇩  <br>I’m a backend-focused developer who believes that deep expertise is the key to building impactful solutions. Inspired by Warren Buffet's principle, I’m committed to being exceptionally good at what I do, currently backend engineering.  <br><br>While backend is my main domain, I also enjoy working on fullstack projects to stay in sync with frontend needs, improve collaboration, and understand the bigger system as a whole.  <br><br>Always open to learn from others, contribute to meaningful projects, and grow through hands-on experience in real-world environments 🚀</p>
+<p align="left"><br>Based in Bandung, Indonesia 🇮🇩  <br>I’m a backend-focused developer who believes that deep expertise is the key to building impactful solutions. Inspired by Warren Buffet's principle, I’m committed to being exceptionally good at what I do, currently backend engineering.  <br><br>While backend is my main domain, I also enjoy working on fullstack projects to stay in sync with frontend needs, improve collaboration, and understand the bigger system as a whole.  <br><br>Always open to learn from others, contribute to meaningful projects, and grow through hands-on experience in real-world environments 🚀</p>
 
 ###
 
