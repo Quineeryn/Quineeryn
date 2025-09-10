@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quineeryn&hide_title=false&hide_rank=false&show_icons=true&cache_bust&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="156" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quineeryn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -73,7 +73,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quineeryn/Quineeryn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quineeryn/Quineeryn/output/pacman-contribution-graph.svg">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quineeryn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Quineeryn/Quineeryn/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
