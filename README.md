@@ -43,4 +43,62 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 325.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 229 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1012 commits        ████████░░░░░░░░░░░░░░░░░   30.42 % 
+🌆 Daytime                1458 commits        ███████████░░░░░░░░░░░░░░   43.82 % 
+🌃 Evening                730 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   649 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Tuesday                  756 commits         ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+Wednesday                402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Thursday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Friday                   364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Saturday                 537 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
+
+
+ Last Updated on 10/03/2026 07:18:46 UTC
 <!--END_SECTION:waka-->
