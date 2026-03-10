@@ -30,16 +30,6 @@ interface Canandra {
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quineeryn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quineeryn&theme=tokyonight&hide_border=true&layout=normal&langs_count=8" height="180"/>
-</p>
-
----
-
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
