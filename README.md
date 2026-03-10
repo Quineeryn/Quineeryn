@@ -12,12 +12,8 @@ interface Canandra {
     major: "Information Technology";
   };
   interests: ["🎮 Playing Games", "🚶 Walking"];
-  contact: {
-    linkedin: "linkedin.com/in/canandra";
-    email: "canandra.dev@gmail.com";
-    leetcode: "leetcode.com/u/canandraeka10";
-  };
 }
+
 ```
 
 ---
@@ -34,8 +30,6 @@ interface Canandra {
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
