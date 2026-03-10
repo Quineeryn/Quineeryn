@@ -69,7 +69,6 @@ Saturday                 537 commits         ████░░░░░░░�
 Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 ```
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -84,11 +83,5 @@ No Activity Tracked This Week
 🐱‍💻 Projects: 
 No Activity Tracked This Week
 ```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
-
-
  Last Updated on 10/03/2026 07:38:30 UTC
 <!--END_SECTION:waka-->
