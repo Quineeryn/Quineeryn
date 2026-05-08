@@ -29,9 +29,9 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -72,19 +72,19 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue                      11 hrs 26 mins      ████████████████░░░░░░░░░   64.51 % 
-TypeScript               3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Go                       2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Vue                      11 hrs 59 mins      █████████████████░░░░░░░░   67.75 % 
+Go                       2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+TypeScript               2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Antigravity              17 hrs 44 mins      █████████████████████████   100.00 % 
+Antigravity              17 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-human-resource-fe        11 hrs 45 mins      █████████████████░░░░░░░░   66.31 % 
-human-resource-admin-fe  3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-human-resource-be        2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+human-resource-fe        8 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.81 % 
+human-resource-admin-fe  6 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.11 % 
+human-resource-be        2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
 ```
 
 **Timeline**
@@ -92,5 +92,5 @@ human-resource-be        2 hrs 18 mins       ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 03:54:11 UTC
+ Last Updated on 08/05/2026 03:44:47 UTC
 <!--END_SECTION:waka-->
