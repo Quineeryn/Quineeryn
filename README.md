@@ -29,6 +29,8 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -43,10 +45,55 @@ interface Canandra {
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1012 commits        ████████░░░░░░░░░░░░░░░░░   30.31 % 
+🌆 Daytime                1462 commits        ███████████░░░░░░░░░░░░░░   43.79 % 
+🌃 Evening                738 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   649 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Tuesday                  768 commits         ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Wednesday                402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Thursday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Friday                   364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Saturday                 537 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Vue                      5 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.97 % 
+Go                       4 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+
+🔥 Editors: 
+Antigravity              8 hrs 16 mins       █████████████████░░░░░░░░   67.93 % 
+VS Code                  3 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.07 % 
+
+🐱‍💻 Projects: 
+human-resource-admin-fe  5 hrs               ██████████░░░░░░░░░░░░░░░   41.09 % 
+sso-be                   2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+human-resource-be        2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+human-resource-fe        1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+sso-be_KACAU             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 04:23:12 UTC
+ Last Updated on 19/05/2026 04:18:24 UTC
 <!--END_SECTION:waka-->
