@@ -29,6 +29,8 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%206%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -91,5 +93,5 @@ human-resource-fe        1 hr 14 mins        ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 04:48:34 UTC
+ Last Updated on 08/06/2026 04:53:23 UTC
 <!--END_SECTION:waka-->
