@@ -74,19 +74,20 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue                      4 hrs 6 mins        █████████████░░░░░░░░░░░░   51.18 % 
-TypeScript               2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
-Go                       47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Go                       3 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.03 % 
+Vue                      1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+TypeScript               1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs               █████████████████████████   100.00 % 
+Antigravity IDE          7 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-human-resource-admin-fe  6 hrs 58 mins       ██████████████████████░░░   87.12 % 
-sso-be                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-human-resource-fe        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-human-resource-be        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+human-resource-be        3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.46 % 
+human-resource-admin-fe  2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+human-resource-fe        1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+sso-be                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,5 +101,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 02:58:37 UTC
+ Last Updated on 31/07/2026 03:40:49 UTC
 <!--END_SECTION:waka-->
