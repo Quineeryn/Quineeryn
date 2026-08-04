@@ -74,19 +74,19 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       4 hrs 56 mins       █████████████░░░░░░░░░░░░   50.41 % 
-Vue                      2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-TypeScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-SQL                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Vue                      5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.80 % 
+Go                       4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.30 % 
+TypeScript               2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+SQL                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Makefile                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 48 mins       █████████████████████████   100.00 % 
+Antigravity IDE          13 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-human-resource-be        5 hrs 31 mins       ██████████████░░░░░░░░░░░   56.30 % 
-human-resource-admin-fe  2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-human-resource-fe        1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+human-resource-be        5 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   41.66 % 
+human-resource-fe        4 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
+human-resource-admin-fe  3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,5 +100,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 03:42:28 UTC
+ Last Updated on 04/08/2026 03:26:04 UTC
 <!--END_SECTION:waka-->
