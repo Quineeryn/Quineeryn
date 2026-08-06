@@ -29,7 +29,7 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2045%20mins-blue?style=flat)
 
@@ -74,19 +74,19 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       8 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.74 % 
-Vue                      6 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.92 % 
-TypeScript               2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-SQL                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Makefile                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Go                       8 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.08 % 
+Vue                      8 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.94 % 
+TypeScript               2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+SQL                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-Antigravity IDE          17 hrs 58 mins      █████████████████████████   100.00 % 
+Antigravity IDE          20 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-human-resource-be        8 hrs 47 mins       ████████████░░░░░░░░░░░░░   48.95 % 
-human-resource-fe        5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-human-resource-admin-fe  4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+human-resource-be        9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   44.84 % 
+human-resource-fe        5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+human-resource-admin-fe  5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,5 +100,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 03:21:58 UTC
+ Last Updated on 06/08/2026 03:24:13 UTC
 <!--END_SECTION:waka-->
