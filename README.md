@@ -29,7 +29,7 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2045%20mins-blue?style=flat)
 
@@ -74,18 +74,19 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       11 hrs 43 mins      ███████████████░░░░░░░░░░   58.99 % 
-Vue                      5 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-TypeScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-SQL                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Go                       12 hrs 2 mins       ████████████████░░░░░░░░░   65.46 % 
+Vue                      4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+TypeScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+SQL                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-Antigravity IDE          19 hrs 52 mins      █████████████████████████   100.00 % 
+Antigravity IDE          18 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-human-resource-be        12 hrs 22 mins      ████████████████░░░░░░░░░   62.29 % 
-human-resource-admin-fe  7 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.71 % 
+human-resource-be        11 hrs 12 mins      ███████████████░░░░░░░░░░   60.98 % 
+human-resource-admin-fe  5 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.91 % 
+myAPI                    1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,5 +100,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 01:45:32 UTC
+ Last Updated on 20/08/2026 01:44:15 UTC
 <!--END_SECTION:waka-->
