@@ -74,20 +74,20 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       13 hrs 5 mins       ████████████████░░░░░░░░░   65.23 % 
-Vue                      5 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-TypeScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Go                       15 hrs 36 mins      █████████████████░░░░░░░░   67.22 % 
+Vue                      5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+TypeScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-Antigravity IDE          20 hrs 4 mins       █████████████████████████   100.00 % 
+Antigravity IDE          23 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-human-resource-be        9 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.11 % 
-human-resource-admin-fe  5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-myAPI                    4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-human-resource-fe        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+human-resource-be        9 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
+myAPI                    7 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.61 % 
+human-resource-admin-fe  5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+human-resource-fe        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,5 +101,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 01:49:53 UTC
+ Last Updated on 25/08/2026 01:44:28 UTC
 <!--END_SECTION:waka-->
