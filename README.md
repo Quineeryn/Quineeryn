@@ -29,7 +29,7 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2045%20mins-blue?style=flat)
 
@@ -74,20 +74,20 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       12 hrs 56 mins      ████████████████░░░░░░░░░   62.83 % 
-Vue                      5 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-TypeScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Go                       10 hrs 27 mins      ███████████████░░░░░░░░░░   59.71 % 
+Vue                      4 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-Antigravity IDE          20 hrs 35 mins      █████████████████████████   100.00 % 
+Antigravity IDE          17 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-myAPI                    10 hrs 28 mins      █████████████░░░░░░░░░░░░   50.89 % 
-human-resource-admin-fe  5 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-human-resource-be        3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-human-resource-fe        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+myAPI                    9 hrs 58 mins       ██████████████░░░░░░░░░░░   56.94 % 
+human-resource-admin-fe  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+human-resource-be        1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+human-resource-fe        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,5 +101,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 01:49:37 UTC
+ Last Updated on 27/08/2026 08:55:25 UTC
 <!--END_SECTION:waka-->
