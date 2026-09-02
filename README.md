@@ -29,7 +29,7 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2045%20mins-blue?style=flat)
 
@@ -74,16 +74,18 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       8 hrs 10 mins       ████████████████████████░   94.06 % 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Go                       7 hrs 8 mins        ████████████████████████░   94.40 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 41 mins       █████████████████████████   100.00 % 
+Antigravity IDE          7 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-myAPI                    8 hrs 5 mins        ███████████████████████░░   93.01 % 
-human-resource-be        36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+myAPI                    5 hrs 25 mins       ██████████████████░░░░░░░   71.75 % 
+iconTest                 1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+human-resource-be        36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,5 +99,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 04:50:01 UTC
+ Last Updated on 02/09/2026 04:11:16 UTC
 <!--END_SECTION:waka-->
