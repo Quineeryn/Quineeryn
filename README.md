@@ -74,20 +74,21 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       9 hrs 56 mins       █████████████████░░░░░░░░   69.65 % 
-Vue                      1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Go                       9 hrs 13 mins       ███████████████░░░░░░░░░░   59.78 % 
+Vue                      3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-Antigravity IDE          14 hrs 16 mins      █████████████████████████   100.00 % 
+Antigravity IDE          15 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-myAPI                    10 hrs 18 mins      ██████████████████░░░░░░░   72.18 % 
-shipping-admin-fe        2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-iconTest                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-human-resource-be        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+myAPI                    9 hrs 35 mins       ████████████████░░░░░░░░░   62.11 % 
+shipping-admin-fe        2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+shipping-customer-fe     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+iconTest                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+human-resource-be        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,5 +102,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 04:16:28 UTC
+ Last Updated on 08/09/2026 04:18:11 UTC
 <!--END_SECTION:waka-->
