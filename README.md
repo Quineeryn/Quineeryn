@@ -29,7 +29,7 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2045%20mins-blue?style=flat)
 
@@ -39,7 +39,7 @@ interface Canandra {
 
 > 📦 458.0 kB Used in GitHub's Storage 
  > 
-> 🏆 251 Contributions in the Year 2026
+> 🏆 252 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,7 +51,7 @@ interface Canandra {
 
 ```text
 🌞 Morning                1021 commits        ████████░░░░░░░░░░░░░░░░░   30.41 % 
-🌆 Daytime                1465 commits        ███████████░░░░░░░░░░░░░░   43.64 % 
+🌆 Daytime                1466 commits        ███████████░░░░░░░░░░░░░░   43.66 % 
 🌃 Evening                743 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
 🌙 Night                  128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
@@ -59,11 +59,11 @@ interface Canandra {
 
 ```text
 Monday                   651 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Tuesday                  768 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Tuesday                  769 commits         ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
 Wednesday                402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Thursday                 447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Thursday                 447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 Friday                   375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Saturday                 541 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Saturday                 541 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
 
@@ -74,21 +74,21 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       9 hrs 13 mins       ███████████████░░░░░░░░░░   59.78 % 
-Vue                      3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Go                       8 hrs 32 mins       █████████████░░░░░░░░░░░░   50.58 % 
+Vue                      4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+TypeScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-Antigravity IDE          15 hrs 26 mins      █████████████████████████   100.00 % 
+Antigravity IDE          16 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-myAPI                    9 hrs 35 mins       ████████████████░░░░░░░░░   62.11 % 
-shipping-admin-fe        2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-shipping-customer-fe     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-iconTest                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-human-resource-be        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+myAPI                    10 hrs 40 mins      ████████████████░░░░░░░░░   63.19 % 
+shipping-customer-fe     3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+shipping-admin-fe        2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+education-student-fe     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+human-resource-be        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,5 +102,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 04:18:11 UTC
+ Last Updated on 09/09/2026 04:23:37 UTC
 <!--END_SECTION:waka-->
