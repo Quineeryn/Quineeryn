@@ -29,7 +29,7 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2045%20mins-blue?style=flat)
 
@@ -74,21 +74,21 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       8 hrs 32 mins       █████████████░░░░░░░░░░░░   50.58 % 
-Vue                      4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-TypeScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Vue                      7 hrs 35 mins       ██████████████░░░░░░░░░░░   56.97 % 
+TypeScript               2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Go                       1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Bash                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Antigravity IDE          16 hrs 53 mins      █████████████████████████   100.00 % 
+Antigravity IDE          13 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-myAPI                    10 hrs 40 mins      ████████████████░░░░░░░░░   63.19 % 
-shipping-customer-fe     3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-shipping-admin-fe        2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-education-student-fe     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-human-resource-be        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+shipping-customer-fe     8 hrs 31 mins       ████████████████░░░░░░░░░   63.87 % 
+port-aggregator-fe       2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+myAPI                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+education-student-fe     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+shipping-admin-fe        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,5 +102,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 04:23:37 UTC
+ Last Updated on 12/09/2026 04:19:26 UTC
 <!--END_SECTION:waka-->
