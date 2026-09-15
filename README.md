@@ -39,7 +39,7 @@ interface Canandra {
 
 > 📦 458.0 kB Used in GitHub's Storage 
  > 
-> 🏆 252 Contributions in the Year 2026
+> 🏆 253 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,19 +50,19 @@ interface Canandra {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1021 commits        ████████░░░░░░░░░░░░░░░░░   30.41 % 
-🌆 Daytime                1466 commits        ███████████░░░░░░░░░░░░░░   43.66 % 
-🌃 Evening                743 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+🌞 Morning                1022 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
+🌆 Daytime                1466 commits        ███████████░░░░░░░░░░░░░░   43.64 % 
+🌃 Evening                743 commits         ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
 🌙 Night                  128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   651 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Tuesday                  769 commits         ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Monday                   651 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Tuesday                  770 commits         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
 Wednesday                402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
 Thursday                 447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Friday                   375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Friday                   375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 Saturday                 541 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
@@ -74,21 +74,21 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue                      7 hrs 35 mins       ██████████████░░░░░░░░░░░   56.97 % 
-TypeScript               2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Go                       1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Bash                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Vue                      8 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.40 % 
+Go                       4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+TypeScript               2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Bash                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 20 mins      █████████████████████████   100.00 % 
+Antigravity IDE          18 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shipping-customer-fe     8 hrs 31 mins       ████████████████░░░░░░░░░   63.87 % 
-port-aggregator-fe       2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-myAPI                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-education-student-fe     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-shipping-admin-fe        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+shipping-customer-fe     8 hrs 13 mins       ███████████░░░░░░░░░░░░░░   43.40 % 
+myAPI                    4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+port-aggregator-fe       4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+education-student-fe     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+shipping-be              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,5 +102,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 04:38:24 UTC
+ Last Updated on 15/09/2026 04:39:28 UTC
 <!--END_SECTION:waka-->
