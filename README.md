@@ -29,7 +29,7 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2045%20mins-blue?style=flat)
 
@@ -39,7 +39,7 @@ interface Canandra {
 
 > 📦 458.0 kB Used in GitHub's Storage 
  > 
-> 🏆 253 Contributions in the Year 2026
+> 🏆 255 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,20 +50,20 @@ interface Canandra {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1022 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
-🌆 Daytime                1466 commits        ███████████░░░░░░░░░░░░░░   43.64 % 
-🌃 Evening                743 commits         ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+🌞 Morning                1024 commits        ████████░░░░░░░░░░░░░░░░░   30.47 % 
+🌆 Daytime                1466 commits        ███████████░░░░░░░░░░░░░░   43.62 % 
+🌃 Evening                743 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
 🌙 Night                  128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   651 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Tuesday                  770 commits         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Wednesday                402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Thursday                 447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Monday                   651 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Tuesday                  770 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Wednesday                402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Thursday                 449 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 Friday                   375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Saturday                 541 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Saturday                 541 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
 
@@ -74,21 +74,21 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue                      8 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
-Go                       6 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-TypeScript               3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Bash                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Go                       7 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   37.51 % 
+Vue                      7 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
+TypeScript               2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Bash                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-Antigravity IDE          21 hrs 5 mins       █████████████████████████   100.00 % 
+Antigravity IDE          20 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shipping-customer-fe     9 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.41 % 
-myAPI                    6 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.70 % 
-port-aggregator-fe       4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+myAPI                    8 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.26 % 
+shipping-customer-fe     5 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+port-aggregator-fe       4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+sso-fe                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 shipping-be              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-sso-fe                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,5 +102,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 04:34:07 UTC
+ Last Updated on 17/09/2026 04:39:31 UTC
 <!--END_SECTION:waka-->
