@@ -5,7 +5,7 @@ interface Canandra {
   bio: {
     name: "Canandra Eka Mukti";
     location: "🏡 North Jakarta, ID — Indonesia";
-    occupation: "👨‍💻 IT Development Intern @ Temas Tbk";
+    occupation: "👨‍💻 Software Engineer @ Temas Tbk";
   };
   education: {
     institution: "🏫 Politeknik Negeri Bandung";
