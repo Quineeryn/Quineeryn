@@ -33,7 +33,7 @@ interface Canandra {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,27 +74,41 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       14 hrs 36 mins      ██████████████░░░░░░░░░░░   57.29 % 
-Vue                      6 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-TypeScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Go                       16 hrs 25 mins      ███████████████░░░░░░░░░░   60.26 % 
+Vue                      6 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+TypeScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Bash                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-Antigravity IDE          25 hrs 30 mins      █████████████████████████   100.00 % 
+Antigravity IDE          27 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shipping-be              11 hrs 51 mins      ████████████░░░░░░░░░░░░░   46.47 % 
-port-aggregator-fe       4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-myAPI                    3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-sso-fe                   2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-shipping-customer-fe     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+shipping-be              15 hrs 41 mins      ██████████████░░░░░░░░░░░   57.55 % 
+port-aggregator-fe       4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+shipping-admin-fe        2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+myAPI                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+shipping-customer-fe     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 30 mins (1.89%)
+
+✍️ 0 lines written by AI, 2,197 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 7 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 33 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -102,5 +116,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 04:31:05 UTC
+ Last Updated on 24/09/2026 04:28:45 UTC
 <!--END_SECTION:waka-->
