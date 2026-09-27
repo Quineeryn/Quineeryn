@@ -29,9 +29,9 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -74,35 +74,35 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       17 hrs 51 mins      █████████████████░░░░░░░░   68.16 % 
-Vue                      2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-TypeScript               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-SQL                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Go                       17 hrs 50 mins      █████████████████░░░░░░░░   68.27 % 
+Vue                      2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+TypeScript               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+SQL                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Antigravity IDE          26 hrs 12 mins      █████████████████████████   100.00 % 
+Antigravity IDE          26 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shipping-be              11 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
-atlantic                 9 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.75 % 
-shipping-admin-fe        3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-port-aggregator-fe       1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-sso-fe                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+shipping-be              10 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   41.96 % 
+atlantic                 9 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.86 % 
+shipping-admin-fe        3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+port-aggregator-fe       1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+sso-fe                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 15 mins (42.98%)
+⏱ AI Coding Time: 11 hrs 13 mins (42.99%)
 
 ✍️ 9,039 lines written by AI, 1,542 lines written by hand (85.43% AI-written)
 
-🔤 54,658,078 Input Tokens, 1,842,987 Output Tokens
+🔤 53,711,522 Input Tokens, 1,816,153 Output Tokens
 
-💵 $74.03 Estimated AI Cost This Week
+💵 $73.22 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 7 AI Prompts
+🧠 16 AI Sessions, 7 AI Prompts
 
 Gemini                   8,659 lines         ████████████████████████░   95.80 % 
 Sonnet                   380 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
@@ -120,5 +120,5 @@ Antigravity-Ide          0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 04:43:05 UTC
+ Last Updated on 27/09/2026 05:03:51 UTC
 <!--END_SECTION:waka-->
