@@ -74,45 +74,45 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       17 hrs 50 mins      █████████████████░░░░░░░░   68.27 % 
-Vue                      2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-TypeScript               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-SQL                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Go                       16 hrs 47 mins      █████████████████░░░░░░░░   68.83 % 
+Vue                      2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+SQL                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+TypeScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-Antigravity IDE          26 hrs 7 mins       █████████████████████████   100.00 % 
+Antigravity IDE          24 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shipping-be              10 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   41.96 % 
-atlantic                 9 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.86 % 
-shipping-admin-fe        3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-port-aggregator-fe       1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-sso-fe                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+atlantic                 13 hrs 14 mins      ██████████████░░░░░░░░░░░   54.32 % 
+shipping-be              6 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+shipping-admin-fe        4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+GEMINI.md                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 13 mins (42.99%)
+⏱ AI Coding Time: 13 hrs 24 mins (55.0%)
 
-✍️ 9,039 lines written by AI, 1,542 lines written by hand (85.43% AI-written)
+✍️ 11,194 lines written by AI, 1,284 lines written by hand (89.71% AI-written)
 
-🔤 53,711,522 Input Tokens, 1,816,153 Output Tokens
+🔤 49,500,974 Input Tokens, 1,799,170 Output Tokens
 
-💵 $73.22 Estimated AI Cost This Week
+💵 $50.14 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 7 AI Prompts
+🧠 19 AI Sessions, 7 AI Prompts
 
-Gemini                   8,659 lines         ████████████████████████░   95.80 % 
-Sonnet                   380 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Gemini                   10,814 lines        ████████████████████████░   96.61 % 
+Sonnet                   380 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.43% of written lines came from AI
+🤖 AI-Driven — 89.71% of written lines came from AI
 📝 Concise Prompter — average 33 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 28.62% of changed lines were hand-edited
+🚀 High AI Trust — 15.01% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -120,5 +120,5 @@ Antigravity-Ide          0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 05:05:24 UTC
+ Last Updated on 29/09/2026 05:29:48 UTC
 <!--END_SECTION:waka-->
