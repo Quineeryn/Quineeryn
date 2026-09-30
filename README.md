@@ -29,9 +29,9 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -74,45 +74,45 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       16 hrs 47 mins      █████████████████░░░░░░░░   68.83 % 
-Vue                      2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-SQL                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-TypeScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Go                       19 hrs 53 mins      ██████████████████░░░░░░░   73.95 % 
+Vue                      1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+SQL                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+TypeScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-Antigravity IDE          24 hrs 23 mins      █████████████████████████   100.00 % 
+Antigravity IDE          26 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-atlantic                 13 hrs 14 mins      ██████████████░░░░░░░░░░░   54.32 % 
-shipping-be              6 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-shipping-admin-fe        4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-GEMINI.md                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+atlantic                 14 hrs 2 mins       █████████████░░░░░░░░░░░░   52.19 % 
+shipping-be              9 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.52 % 
+shipping-admin-fe        2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+GEMINI.md                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 24 mins (55.0%)
+⏱ AI Coding Time: 16 hrs 43 mins (62.2%)
 
-✍️ 11,194 lines written by AI, 1,284 lines written by hand (89.71% AI-written)
+✍️ 11,772 lines written by AI, 1,125 lines written by hand (91.28% AI-written)
 
-🔤 49,500,974 Input Tokens, 1,799,170 Output Tokens
+🔤 59,303,008 Input Tokens, 2,015,403 Output Tokens
 
-💵 $50.14 Estimated AI Cost This Week
+💵 $56.57 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 7 AI Prompts
+🧠 21 AI Sessions, 7 AI Prompts
 
-Gemini                   10,814 lines        ████████████████████████░   96.61 % 
-Sonnet                   380 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Gemini                   11,392 lines        ████████████████████████░   96.77 % 
+Sonnet                   380 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.71% of written lines came from AI
+🤖 AI-Driven — 91.28% of written lines came from AI
 📝 Concise Prompter — average 33 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 15.01% of changed lines were hand-edited
+🚀 High AI Trust — 13.07% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -120,5 +120,5 @@ Antigravity-Ide          0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 05:29:48 UTC
+ Last Updated on 30/09/2026 05:17:53 UTC
 <!--END_SECTION:waka-->
