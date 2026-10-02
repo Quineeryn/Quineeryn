@@ -29,11 +29,11 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,44 +74,43 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       19 hrs 50 mins      ████████████████████░░░░░   78.63 % 
-SQL                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Vue                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Go                       21 hrs 21 mins      ████████████████████░░░░░   79.74 % 
+Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+SQL                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Vue                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-Antigravity IDE          25 hrs 14 mins      █████████████████████████   100.00 % 
+Antigravity IDE          26 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-atlantic                 18 hrs              ██████████████████░░░░░░░   71.37 % 
-shipping-be              6 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-shipping-admin-fe        1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+atlantic                 18 hrs 13 mins      █████████████████░░░░░░░░   68.05 % 
+shipping-be              7 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+shipping-admin-fe        1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 24 mins (61.03%)
+⏱ AI Coding Time: 17 hrs 9 mins (64.08%)
 
-✍️ 8,672 lines written by AI, 822 lines written by hand (91.34% AI-written)
+✍️ 9,078 lines written by AI, 826 lines written by hand (91.66% AI-written)
 
-🔤 47,090,512 Input Tokens, 1,696,068 Output Tokens
+🔤 53,720,460 Input Tokens, 1,744,285 Output Tokens
 
-💵 $44.88 Estimated AI Cost This Week
+💵 $49.88 Estimated AI Cost This Week
 
 🧠 19 AI Sessions, 0 AI Prompts
 
-Gemini                   8,292 lines         ████████████████████████░   95.62 % 
-Sonnet                   380 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   8,698 lines         ████████████████████████░   95.81 % 
+Sonnet                   380 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.34% of written lines came from AI
+🤖 AI-Driven — 91.66% of written lines came from AI
 📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 11.46% of changed lines were hand-edited
+🚀 High AI Trust — 11.41% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -119,5 +118,5 @@ Antigravity-Ide          0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 05:32:42 UTC
+ Last Updated on 02/10/2026 05:20:10 UTC
 <!--END_SECTION:waka-->
