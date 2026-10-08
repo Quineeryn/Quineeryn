@@ -29,11 +29,11 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,44 +74,44 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       16 hrs 18 mins      ███████████████████░░░░░░   75.17 % 
-Markdown                 2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-SQL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Go                       14 hrs 41 mins      ██████████████████░░░░░░░   70.60 % 
+YAML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Vue                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-Antigravity IDE          21 hrs 41 mins      █████████████████████████   100.00 % 
+Antigravity IDE          20 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shipping-be              12 hrs 50 mins      ███████████████░░░░░░░░░░   59.18 % 
-atlantic                 8 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.98 % 
-Unknown Project          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-core-be                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-shipping-admin-fe        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+shipping-be              12 hrs 29 mins      ███████████████░░░░░░░░░░   60.00 % 
+atlantic                 4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+core-be                  2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+core-fe                  1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 41 mins (63.08%)
+⏱ AI Coding Time: 13 hrs 52 mins (66.65%)
 
-✍️ 1,554 lines written by AI, 509 lines written by hand (75.33% AI-written)
+✍️ 2,901 lines written by AI, 564 lines written by hand (83.72% AI-written)
 
-🔤 42,938,012 Input Tokens, 1,222,875 Output Tokens
+🔤 41,795,115 Input Tokens, 1,340,230 Output Tokens
 
-💵 $45.49 Estimated AI Cost This Week
+💵 $49.33 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 30 AI Prompts
+🧠 14 AI Sessions, 55 AI Prompts
 
-Gemini                   1,389 lines         █████████████████████████   98.93 % 
-Sonnet                   15 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Gemini                   2,741 lines         █████████████████████████   99.46 % 
+Sonnet                   15 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.33% of written lines came from AI
-📝 Concise Prompter — average 59 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 31.36% of changed lines were hand-edited
+🤖 AI-Driven — 83.72% of written lines came from AI
+📝 Concise Prompter — average 90 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 21.92% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -119,5 +119,5 @@ Sonnet                   15 lines            ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 05:38:52 UTC
+ Last Updated on 08/10/2026 05:46:26 UTC
 <!--END_SECTION:waka-->
