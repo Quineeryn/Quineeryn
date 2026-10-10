@@ -29,9 +29,9 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -74,44 +74,45 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       12 hrs 43 mins      █████████████████░░░░░░░░   68.47 % 
-YAML                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Vue                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Go                       12 hrs 32 mins      ██████████████████░░░░░░░   71.58 % 
+YAML                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Vue                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-Antigravity IDE          18 hrs 35 mins      █████████████████████████   100.00 % 
+Antigravity IDE          17 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shipping-be              10 hrs 31 mins      ██████████████░░░░░░░░░░░   56.65 % 
-core-be                  5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-core-fe                  1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-atlantic                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+core-be                  7 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.03 % 
+shipping-be              7 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.42 % 
+core-fe                  1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+atlantic                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+port-be                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 26 mins (66.96%)
+⏱ AI Coding Time: 12 hrs 10 mins (69.48%)
 
-✍️ 3,089 lines written by AI, 459 lines written by hand (87.06% AI-written)
+✍️ 3,455 lines written by AI, 420 lines written by hand (89.16% AI-written)
 
-🔤 38,778,898 Input Tokens, 1,349,557 Output Tokens
+🔤 37,560,738 Input Tokens, 1,255,174 Output Tokens
 
-💵 $61.28 Estimated AI Cost This Week
+💵 $63.09 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 86 AI Prompts
+🧠 13 AI Sessions, 107 AI Prompts
 
-Gemini                   2,757 lines         ███████████████████████░░   93.65 % 
-Sonnet                   187 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Gemini                   3,001 lines         ███████████████████████░░   90.53 % 
+Sonnet                   187 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Opus                     127 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.06% of written lines came from AI
-📝 Concise Prompter — average 96 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 17.54% of changed lines were hand-edited
+🤖 AI-Driven — 89.16% of written lines came from AI
+📝 Concise Prompter — average 108 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 14.32% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -119,5 +120,5 @@ Sonnet                   187 lines           ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 05:51:08 UTC
+ Last Updated on 10/10/2026 05:34:34 UTC
 <!--END_SECTION:waka-->
