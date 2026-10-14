@@ -29,9 +29,9 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -74,45 +74,46 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       11 hrs 22 mins      ███████████████████░░░░░░   74.64 % 
-YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Vue                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Go                       12 hrs 2 mins       ██████████████████░░░░░░░   70.87 % 
+YAML                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Vue                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-Antigravity IDE          15 hrs 14 mins      █████████████████████████   100.00 % 
+Antigravity IDE          16 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-core-be                  8 hrs 31 mins       ██████████████░░░░░░░░░░░   55.91 % 
-port-be                  3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-core-fe                  1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-shipping-be              1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-human-resource-be        27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+core-be                  9 hrs 4 mins        █████████████░░░░░░░░░░░░   53.38 % 
+port-be                  5 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
+core-fe                  1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+human-resource-be        27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+shipping-be              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 29 mins (55.76%)
+⏱ AI Coding Time: 9 hrs 46 mins (57.56%)
 
-✍️ 3,662 lines written by AI, 438 lines written by hand (89.32% AI-written)
+✍️ 5,021 lines written by AI, 498 lines written by hand (90.98% AI-written)
 
-🔤 20,827,985 Input Tokens, 885,947 Output Tokens
+🔤 18,726,514 Input Tokens, 1,113,485 Output Tokens
 
-💵 $50.11 Estimated AI Cost This Week
+💵 $201.50 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 100 AI Prompts
+🧠 18 AI Sessions, 123 AI Prompts
 
-Gemini                   3,223 lines         ███████████████████████░░   91.51 % 
-Sonnet                   172 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Opus                     127 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Gemini                   3,569 lines         ██████████████████░░░░░░░   70.91 % 
+Opencode-Cli             1,165 lines         ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+Sonnet                   172 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Opus                     127 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.32% of written lines came from AI
-📝 Concise Prompter — average 133 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 22.47% of changed lines were hand-edited
+🤖 AI-Driven — 90.98% of written lines came from AI
+📝 Concise Prompter — average 132 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 18.77% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -120,5 +121,5 @@ Opus                     127 lines           █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 06:36:25 UTC
+ Last Updated on 14/10/2026 04:37:29 UTC
 <!--END_SECTION:waka-->
