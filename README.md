@@ -74,46 +74,49 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       15 hrs 51 mins      █████████████████░░░░░░░░   69.19 % 
-YAML                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Markdown                 1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Other                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Go                       16 hrs 18 mins      ████████████████░░░░░░░░░   62.54 % 
+Other                    2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+YAML                     2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Vue                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-Antigravity IDE          18 hrs 44 mins      ████████████████████░░░░░   81.76 % 
-Opencode Cli             4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Antigravity IDE          19 hrs 11 mins      ██████████████████░░░░░░░   73.59 % 
+Opencode Cli             6 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+OpenCode                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🐱‍💻 Projects: 
-port-be                  10 hrs 2 mins       ███████████░░░░░░░░░░░░░░   43.82 % 
-core-be                  8 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.60 % 
-shipping-be              4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-human-resource-be        27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+port-be                  9 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.83 % 
+shipping-be              8 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.01 % 
+core-be                  7 hrs               ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+shipping-admin-fe        1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+canandra.mukti@temasline.0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 59 mins (74.13%)
+⏱ AI Coding Time: 22 hrs 4 mins (84.63%)
 
-✍️ 3,491 lines written by AI, 300 lines written by hand (92.09% AI-written)
+✍️ 3,593 lines written by AI, 333 lines written by hand (91.52% AI-written)
 
-🔤 18,080,183 Input Tokens, 1,551,746 Output Tokens
+🔤 40,054,284 Input Tokens, 1,907,237 Output Tokens
 
-💵 $773.14 Estimated AI Cost This Week
+💵 $956.83 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 246 AI Prompts
+🧠 22 AI Sessions, 316 AI Prompts
 
-Opencode-Cli             2,956 lines         █████████████████████░░░░   84.00 % 
-Gemini                   563 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Opencode-Cli             2,956 lines         ████████████████████░░░░░   81.50 % 
+Gemini                   665 lines           █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Antigravityide           6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.09% of written lines came from AI
-📝 Concise Prompter — average 75 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 20.71% of changed lines were hand-edited
+🤖 AI-Driven — 91.52% of written lines came from AI
+📝 Concise Prompter — average 66 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 14.15% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -121,5 +124,5 @@ Grok                     0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 04:22:25 UTC
+ Last Updated on 20/10/2026 04:33:45 UTC
 <!--END_SECTION:waka-->
