@@ -74,49 +74,47 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       13 hrs 6 mins       ██████████████░░░░░░░░░░░   54.15 % 
-Other                    2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Vue                      2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-YAML                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Bash                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Go                       14 hrs 27 mins      ███████████████░░░░░░░░░░   60.43 % 
+Vue                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+YAML                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Bash                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Other                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 33 mins      ██████████████░░░░░░░░░░░   55.99 % 
-Opencode Cli             8 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
-OpenCode                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Opencode Cli             11 hrs 19 mins      ████████████░░░░░░░░░░░░░   47.37 % 
+Antigravity IDE          10 hrs 51 mins      ███████████░░░░░░░░░░░░░░   45.37 % 
+OpenCode                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🐱‍💻 Projects: 
-shipping-be              16 hrs 5 mins       █████████████████░░░░░░░░   66.47 % 
-shipping-customer-fe     3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-port-be                  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-shipping-admin-fe        1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-canandra.mukti@temasline.0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+shipping-be              18 hrs 40 mins      ████████████████████░░░░░   78.07 % 
+shipping-customer-fe     4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+human-resource-admin-fe  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+port-be                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 9 mins (79.13%)
+⏱ AI Coding Time: 19 hrs 41 mins (82.33%)
 
-✍️ 2,160 lines written by AI, 527 lines written by hand (80.39% AI-written)
+✍️ 2,280 lines written by AI, 416 lines written by hand (84.57% AI-written)
 
-🔤 83,213,648 Input Tokens, 1,183,903 Output Tokens
+🔤 74,871,050 Input Tokens, 1,211,759 Output Tokens
 
-💵 $369.81 Estimated AI Cost This Week
+💵 $308.81 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 214 AI Prompts
+🧠 14 AI Sessions, 190 AI Prompts
 
-Gemini                   2,004 lines         ███████████████████████░░   92.44 % 
-DeepSeek                 158 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Antigravityide           6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   1,766 lines         ███████████████████░░░░░░   77.02 % 
+DeepSeek                 527 lines           ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.39% of written lines came from AI
-📝 Concise Prompter — average 74 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 27.78% of changed lines were hand-edited
+🤖 AI-Driven — 84.57% of written lines came from AI
+📝 Concise Prompter — average 83 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 20.55% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -124,5 +122,5 @@ Grok                     0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 04:26:43 UTC
+ Last Updated on 27/10/2026 04:45:37 UTC
 <!--END_SECTION:waka-->
