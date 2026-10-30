@@ -29,9 +29,9 @@ interface Canandra {
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,50 +74,50 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       25 hrs 17 mins      █████████████████░░░░░░░░   69.21 % 
-YAML                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Vue                      2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Bash                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Go                       29 hrs 21 mins      ████████████████████░░░░░   78.73 % 
+Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Bash                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+YAML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔥 Editors: 
-Antigravity IDE          18 hrs 46 mins      █████████████░░░░░░░░░░░░   51.41 % 
-Opencode Cli             13 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   36.36 % 
-OpenCode                 3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Antigravity Desktop      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Antigravity IDE          18 hrs 23 mins      ████████████░░░░░░░░░░░░░   49.32 % 
+Opencode Cli             12 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   33.35 % 
+OpenCode                 5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Antigravity Desktop      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🐱‍💻 Projects: 
-shipping-be              30 hrs 18 mins      █████████████████████░░░░   82.96 % 
-shipping-customer-fe     4 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Downloads                37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-human-resource-admin-fe  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-shipping-admin-fe        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+shipping-be              33 hrs 41 mins      ███████████████████████░░   90.37 % 
+shipping-customer-fe     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Downloads                37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+human-resource-admin-fe  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+shipping-admin-fe        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 12 mins (82.71%)
+⏱ AI Coding Time: 31 hrs 12 mins (83.69%)
 
-✍️ 3,251 lines written by AI, 684 lines written by hand (82.62% AI-written)
+✍️ 4,091 lines written by AI, 400 lines written by hand (91.09% AI-written)
 
-🔤 108,962,861 Input Tokens, 1,959,181 Output Tokens
+🔤 105,446,137 Input Tokens, 2,110,956 Output Tokens
 
-💵 $1064.40 Estimated AI Cost This Week
+💵 $1448.57 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 345 AI Prompts
+🧠 14 AI Sessions, 374 AI Prompts
 
-Gemini                   1,342 lines         █████████░░░░░░░░░░░░░░░░   37.40 % 
-Antigravityide           913 lines           ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Opencode-Cli             792 lines           ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-DeepSeek                 527 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Grok                     14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Gemini                   1,809 lines         ██████████░░░░░░░░░░░░░░░   40.84 % 
+Opencode-Cli             1,084 lines         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+Antigravityide           996 lines           ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+DeepSeek                 527 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Grok                     14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.62% of written lines came from AI
-📝 Concise Prompter — average 83 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 23.12% of changed lines were hand-edited
+🤖 AI-Driven — 91.09% of written lines came from AI
+📝 Concise Prompter — average 80 characters per prompt
+🔁 Iterative Prompter — average 27 prompts per session
+🚀 High AI Trust — 13.91% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -125,5 +125,5 @@ Grok                     14 lines            ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quineeryn/Quineeryn/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 05:30:12 UTC
+ Last Updated on 30/10/2026 05:30:23 UTC
 <!--END_SECTION:waka-->
